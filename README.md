@@ -2,11 +2,7 @@
 
 Aplikacja React wykorzystująca NextJS do prowadzenia notatek.
 
-
-
 https://github.com/user-attachments/assets/64013213-8478-4be7-ab70-be7995e31f91
-
-
 
 ## Funkcjonalność
 
@@ -22,3 +18,7 @@ https://github.com/user-attachments/assets/64013213-8478-4be7-ab70-be7995e31f91
 * @lucide-react - Biblioteka ikon dla React
 * @next - Framework React do tworzenia aplikacji webowych
 * @react - Główna biblioteka React
+
+## Autorzy
+Michał Buchar
+Adrian Sikora
