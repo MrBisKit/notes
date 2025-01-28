@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/64013213-8478-4be7-ab70-be7995e31f91
 
 ## Funkcjonalność
 
-* CRUD notatek
+* CRUD notatek z edytorem WYSWIG
 * Kategoryzowanie notatek z wyborem emotikon
 * Responsywność
 * Jasny oraz ciemny tryb
